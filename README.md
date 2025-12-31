@@ -1,6 +1,6 @@
 Deepfake Detector using Python
 
-# Real-Time Deepfake Detector GUI
+# Real-Time Deepfake Detector
 
 A beginner-friendly Deepfake Detector for Windows using Python.
 Detects faces in videos and predicts **REAL or FAKE** using a CNN model.
